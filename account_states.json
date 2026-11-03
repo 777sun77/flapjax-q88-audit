@@ -1,0 +1,1022 @@
+[
+  {
+    "address": "0x05576db9d7028f6ba8c4a7ab35cfa88e7e02d0cf",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x05cc287fecab7461ee05914880167fc2b1f907d4",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x08b245711ebcf65e7ead0f5434551eaa43f79f97",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x1a3081242df7c67043c16e54e4cc9a6c06f7ca8c",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x2277cb5b0c78c92324f4cf230d74a4bda7eb7987",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x263b5c3162ec08bc581ae90117a5682ea23ded0c",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x29cd0058113abfa5079e3d350874b19880449ba8",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x313d8288c2a246fa5c6b1fa332c1554aad0cea7e",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x3167b9a07081e89468c5378e0475b519b32ed030",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x3261fd486fb56bd56eb25898f7224af07b2c4d7d",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x335aa55c12b260e604d93cb0b0895bb13a4e93e3",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 766015900000000,
+      "nonce": 2
+    },
+    "cutoff": {
+      "balance": 766015900000000,
+      "nonce": 2
+    }
+  },
+  {
+    "address": "0x3ccb7381ad4ea4eaab88c370818505771f998c80",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x3d98800c64c345950e1eaaa076d88c12d1bf5f37",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x44ea1e4aa920c066cc6f7f6a381e73276babb9eb",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x4644f7b8679bf0b6f22e69408e2272e9f4417b45",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x47574a8bc4b8a59cce47af72cc13ee89821600a0",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x528cc4dd2f87d6fd65ff31c68e8afe7aaf4bcc18",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 5250000000000,
+      "nonce": 6
+    },
+    "cutoff": {
+      "balance": 5250000000000,
+      "nonce": 6
+    }
+  },
+  {
+    "address": "0x53c32f2052ea5c7576c2dc055be20793fbd65931",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x5b4ca59741de12dc212982b342392a063492a021",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x6043f514df2661b639cec98d0d331ace9afbdcb0",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x6668c4c77b6fd374d9e9fc10cabd636023727426",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x6e1a8a2683f7d7dd17581b3c2ef47a40db14e2f5",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x72aa6edde71b94f6b99c8e52edc02b5c75f74d1a",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x7373e88368378052eb5a449d2ebc95ad7e5f2bef",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x756526dfd98afadd7bbc72d2b6f65add6c42d164",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x778edd931786a717fd3e0ed5978a06718c06cbbe",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x788d03d6605d23e9297f4e43894795d1a7d9ac2f",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 185491311328789940,
+      "nonce": 690
+    },
+    "cutoff": {
+      "balance": 185491311328789940,
+      "nonce": 690
+    }
+  },
+  {
+    "address": "0x812eca4de0f1619b7dd01278f949b42b0e738485",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x836775a055fd78e833a4aee5d2e7593912bd6d1c",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x8920d3f4bb15c0aefe85a81df3ce471338549d3d",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x8c062dc5d775b7d5efc168f75a875f392f53dcdf",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 9989901039248792,
+      "nonce": 7
+    },
+    "cutoff": {
+      "balance": 9989901039248792,
+      "nonce": 7
+    }
+  },
+  {
+    "address": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x9b2a56b912659a24db94473526d2c67814a117ac",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x9eb06b4e082a54e6c244573ffc93c55ae1741cf0",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0x9eef2cdd7f01d18575face74552cdf1fe6e90692",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xa15c58e7008fc7a0331cfcc86a28af99fd21b93c",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xab39aa1e2db4036e01cf7e919b3f239b3ff90160",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 6
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 6
+    }
+  },
+  {
+    "address": "0xabc2c3daffa4c1963299da225c25f2aa7d4ddf62",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xac3ffca6a4b969e9664c95f6cc67289e76b1de59",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xb4183f1a5362c691084a0ab58384ccf936230da9",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xb611ff608878de1b5c0c49bcccf6d7e97ec80652",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xb7e0a2b9a121aac601c7e3e6a35adfd7d1638401",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xbb2186dd8569ef2fe39ddf8e9796640b057ffee3",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 8277661148898,
+      "nonce": 3
+    },
+    "cutoff": {
+      "balance": 8277661148898,
+      "nonce": 3
+    }
+  },
+  {
+    "address": "0xc1123bb365c3e8c7101bef362bd45d8bc0f5254a",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xce92cd639b45eb651f223aa484b55278e05da88d",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xd16446a568f46bca1504422062f23767d8fa58d9",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xd17aa76550e408eb608bcaf7c627b988475f96d7",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xd7a137933471c895b05c7413285be5815d5a9466",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xd838871ca89dc07df756e496276e44fc4f284dce",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xd904ed87f5f97b6acaf6674fcf059196cd0523fc",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xdf4ff9d2f45f99f11a90b16f277d4b7edddb72a5",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xe03a0710a9a124da8d36266fbbaf396e77fc08ea",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xe05266a4d336aa572993bf174fcb1ab88a9cdc0c",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xe32003a1e0347d1f90415b79c7f9f969515e9839",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xea5989e5332f39ef03823e68985d2e4183b370e6",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xeba13671a2f1993ee26a4e286db6e491fa5c99bc",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xec1c995c351e5c7a9a3ba24085aa85fe6b8932cb",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xee0821be193086fe6648b8051e39510ac95b358f",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xef120a8807f5e66c758dbe91d9c4e8acb1e718c1",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xf0208313f014c48e3fa7b99ac728fce6309ad887",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xf3d5de46f73d9f55dfce23f4aaf3db5505c823c5",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xf46b3853261750f666eb3963e2cb40d6b68938a9",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xf52a300be7eb40c2db91beb1fade7edc93baf872",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xfb200657f7266157a45dfcc6c09690726daa24e6",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 500000000000000,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 500000000000000,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xfc0fedb45e56ba2f6467d8c476b3cd54f54d4582",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xfc2b4b299fd656cd03c7b74649f454851115949d",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  },
+  {
+    "address": "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8",
+    "genesis": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "day_end": {
+      "balance": 0,
+      "nonce": 0
+    },
+    "cutoff": {
+      "balance": 0,
+      "nonce": 0
+    }
+  }
+]
